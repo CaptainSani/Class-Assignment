@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Practice;
 
 public class Pmethods {
 
