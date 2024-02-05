@@ -1,4 +1,4 @@
-package Week1_Curric.ClassExcercise_2;
+package Week1_Curric.Class_Activity2.ClassExcercise_2;
 
 public class Main {
     public static void main(String[] args) {
