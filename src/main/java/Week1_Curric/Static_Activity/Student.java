@@ -23,7 +23,10 @@ public class Student {
         return university;
     }
 
-    void changeUniversity(){
-        System.out.println(+getMatricNo()+" "+getStudentName()+" "+" "+getUniversity());
+    static void changeUniversity(){
+        university ="American University of Nigeria";
+    }
+    void display(){
+        System.out.println(getMatricNo()+" "+getStudentName()+" "+getUniversity());
     }
 }

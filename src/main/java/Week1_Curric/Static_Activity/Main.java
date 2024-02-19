@@ -5,7 +5,8 @@ public class Main {
         Student s1 = new Student(21417,"Sani");
 
 
-            Student.university ="American University of Nigeria";
-        s1.changeUniversity();
+        Student.changeUniversity();
+        s1.display();
+
     }
 }
