@@ -1,2 +1,6 @@
-package Week_6.Activity_1a;public interface Drawable {
+package Week_6.Activity_1a;
+
+public interface Drawable {
+
+    void draw();
 }
