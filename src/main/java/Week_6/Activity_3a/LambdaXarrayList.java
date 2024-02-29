@@ -8,11 +8,11 @@ public class LambdaXarrayList {
 
         List<String> list = new ArrayList<>();
 
-        list.add("Sani");
-        list.add("Chi");
-        list.add("Isi");
-        list.add("Master");
+        list.add("sani");
+        list.add("dogo");
+        list.add("master");
+        list.add("shifu");
 
-        list.forEach((n) -> System.out.println(n));
+        list.forEach((p) -> System.out.println(p));
     }
 }
